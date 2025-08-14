@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.fahimai.com/wp-content/uploads/2024/08/Fahim-AI-51.png" alt="AdEspresso PC" width="100%" />
+  <img src="https://www.fahimai.com/wp-content/uploads/2024/08/Fahim-AI-51.png" alt="AdEspresso PC" width="70%" />
 </p>
 
 # 🌠✨ Luminar Neo – Full AI Photo Editor for Windows
